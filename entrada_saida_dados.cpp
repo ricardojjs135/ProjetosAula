@@ -22,6 +22,6 @@ int main() {
 
   string mensagem = "Olá, " + nome + "! Você tem " + to_string(idade) + " anos e sua altura é " + alturaFormatada + " metros.";
 
-  cout << mensagem << std::endl;
+  cout << mensagem << endl;
 
 }
